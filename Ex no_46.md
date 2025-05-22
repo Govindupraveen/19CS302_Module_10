@@ -1,7 +1,7 @@
-# EX 47 C function to insert a node in a linked list.
+# EX 46 C function to traverse the linked list and display it in the following format.
 ## DATE:
 ## AIM:
-To write a C function to insert a node in a linked list.
+To write a C function to traverse the linked list and display it in the following format.
 
 ## Algorithm
 1. Start. 
@@ -10,7 +10,7 @@ To write a C function to insert a node in a linked list.
 4. Read the value using scanf. 
 5. Ask the user to make an input. 
 6. Print out the answer. 
-7. End 
+7. End   
 
 ## Program:
 ```
@@ -48,7 +48,8 @@ temp->next=n;
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/ebb7409c-fa81-4913-beb2-f65aec1a30e7)
+![image](https://github.com/user-attachments/assets/35063d17-0a43-4cb8-bc4f-63a05b22e6df)
+
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
