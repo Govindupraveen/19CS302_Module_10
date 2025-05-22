@@ -1,4 +1,3 @@
-
 # EX 50 C function to delete a node from a Doubly Linked List at the beginning of the list.
 ## DATE:
 ## AIM:
