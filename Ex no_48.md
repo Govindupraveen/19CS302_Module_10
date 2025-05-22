@@ -1,4 +1,3 @@
-
 # EX 48 C functions to perform all basic operations in Doubly Linked List.
 ## DATE:
 ## AIM:
